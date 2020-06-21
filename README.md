@@ -51,4 +51,4 @@
     ```
  - 소스코드 : 
     [Deepmunhakdo_seojaehyung](https://github.com/mshlee/UAI_Repository) (신경망모델)
-    [Deepmunhakdo]
+    [DeepmunhakdoWeb](https://github.com/ksr20612/DeepmunhakdoWeb) (웹)
