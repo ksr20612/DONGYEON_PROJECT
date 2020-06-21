@@ -50,5 +50,5 @@
     -Ubuntu 18.04.1 LTS
     ```
  - 소스코드 : 
-    [Deepmunhakdo_seojaehyung](https://github.com/mshlee/UAI_Repository) (신경망모델)
-    [DeepmunhakdoWeb](https://github.com/ksr20612/DeepmunhakdoWeb) (웹)
+     - [Deepmunhakdo_seojaehyung](https://github.com/seojaehyung/CSAT_Text_Generation) (신경망모델)
+     - [DeepmunhakdoWeb](https://github.com/ksr20612/DeepmunhakdoWeb) (웹)
