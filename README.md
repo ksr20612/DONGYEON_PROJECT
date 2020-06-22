@@ -18,7 +18,7 @@
 ### 공부해 온 것
 -------------------------------------
   > Python 머신러닝 기초(학교)
-  >> - [2019 1학기 영어음성학응용](https://github.com/seojaehyung/CSAT_Text_Generation)
+  >> - [2019 1학기 영어음성학응용](https://github.com/ksr20612/Class2019Spring)
   >> - [Python 크롤링 연습](https://github.com/ksr20612/Practice)
   >> - [기타:regression,mnist,imdb활용](https://github.com/ksr20612/test2)
   
