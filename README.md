@@ -22,9 +22,8 @@
   >> - [Python 크롤링 연습](https://github.com/ksr20612/Practice)
   >> - [기타:regression,mnist,imdb활용](https://github.com/ksr20612/test2)
   
-  > fastCampus 자료구조, 알고리즘 온라인 강의
-  > 백준 알고리즘 문제 풀이
-  >> - [코드 정리](https://github.com/ksr20612/dataStructure)
+  > fastCampus 자료구조, 알고리즘 온라인 강의 & 백준 알고리즘 문제 풀이
+  >> - [고민의 흔적_코드 정리](https://github.com/ksr20612/dataStructure)
 
 ### 기타사항
 ------------------------------------
