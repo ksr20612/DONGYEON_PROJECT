@@ -49,7 +49,9 @@
     -Ubuntu 18.04.1 LTS
     -GitHub WebService
     ```
- - 소스코드 : [UAI 프로젝트](https://github.com/mshlee/UAI_Repository)
+ - 소스코드 : 
+    - [개발계획(Class diagram, Use-case diagram, Sequence diagram 등)](https://github.com/mshlee/UAI_Repository)
+    - [UAIWeb](https://github.com/ksr20612/UAI)
 
 ##### 2. 수능 영어 문제 제작 웹서비스
  - 팀 구성 : 딥문학도 파이빌 프로젝트(5인)
