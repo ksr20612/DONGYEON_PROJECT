@@ -2,7 +2,7 @@
 
 ### Programming language skills
 -------------------------------------
-  - JAVA(상, Spring/Springboot)
+  - JAVA(중상, Spring/Springboot)
   - Python(중하)
   - HTML, CSS, Javascript(중)
 
