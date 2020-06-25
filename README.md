@@ -20,6 +20,7 @@
   > UI & UX 디자인(학교)
   >> - 사용자경험과 심리학(2019 가을학기)
   >> - NUGU UX 분석 [[ux design] part3_Dongyeon.docx](https://github.com/ksr20612/DONGYEON_PROJECT/files/4829105/ux.design.part3_Dongyeon.docx)
+  
   > Python 머신러닝 기초(학교)
   >> - [2019 1학기 영어음성학응용](https://github.com/ksr20612/Class2019Spring)
   >> - [Python 크롤링 연습](https://github.com/ksr20612/Practice)
