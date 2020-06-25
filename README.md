@@ -8,7 +8,7 @@
 
 ### Tools
 -------------------------------------
-  - Eclipse, AWS(EC2-Ubuntu, MySQL)
+  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB)
 
 ### 교육내역
 -------------------------------------
