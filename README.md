@@ -17,23 +17,26 @@
   
 ### 공부해 온 것
 -------------------------------------
-  > UI & UX 디자인(학교)
-  >> - 사용자경험과 심리학(2019 가을학기)
-  >> - NUGU UX 분석 [[ux design] part3_Dongyeon.docx](https://github.com/ksr20612/DONGYEON_PROJECT/files/4829105/ux.design.part3_Dongyeon.docx)
-  
   > Python 머신러닝 기초(학교)
   >> - [2019 1학기 영어음성학응용](https://github.com/ksr20612/Class2019Spring)
   >> - [Python 크롤링 연습](https://github.com/ksr20612/Practice)
   >> - [기타:regression,mnist,imdb활용](https://github.com/ksr20612/test2)
+
+  > UI & UX 디자인(학교)
+  >> - 사용자경험과 심리학(2019 가을학기)
+  >> - NUGU UX 분석 [[ux design] part3_Dongyeon.docx](https://github.com/ksr20612/DONGYEON_PROJECT/files/4829105/ux.design.part3_Dongyeon.docx)
   
   > fastCampus 자료구조, 알고리즘 온라인 강의 & 백준 알고리즘 문제 풀이
   >> - [고민의 흔적_코드 정리](https://github.com/ksr20612/dataStructure)
+
+  > 기타
+  >> - [JAVA로 고전게임을 만들어보자](https://github.com/ksr20612/JAVA_GAMES)
 
 ### 기타사항
 ------------------------------------
   - 정보처리기사 보유(2019.11~)
   - TOEIC 990점 보유(2020.05~)
-  - SPSS(통계분석 툴) 다룹니다
+  - SPSS(통계분석 툴) 다룹니다(사회조사분석사 필기 합격, 7월말 실기 예정)
 
 ### 프로젝트
 ------------------------------------
@@ -59,7 +62,7 @@
 
 ##### 2. 수능 영어 문제 제작 웹서비스
  - 팀 구성 : 딥문학도 파이빌 프로젝트(5인)
- - 역할 : 웹 개발 
+ - 역할 : 웹 개발, 백엔드 개발
  - 기간 : 2019.10 - 2020.01
  - 개발 환경 :
     ```
