@@ -17,13 +17,13 @@
   
 ### 공부해 온 것
 -------------------------------------
-  > Python 머신러닝 기초(학교)
+  > Python 머신러닝 기초 (학교)
   >> - [2019 1학기 영어음성학응용](https://github.com/ksr20612/Class2019Spring)
   >> - [Python 크롤링 연습](https://github.com/ksr20612/Practice)
   >> - [기타:regression,mnist,imdb활용](https://github.com/ksr20612/test2)
 
-  > UI & UX 디자인(학교)
-  >> - 사용자경험과 심리학(2019 가을학기)
+  > UX 디자인 (학교)
+  >> - 사용자경험과 심리학(2019 2학기), "Human Factors In Simple And Complex Systems"
   >> - NUGU UX 분석 [[ux design] part3_Dongyeon.docx](https://github.com/ksr20612/DONGYEON_PROJECT/files/4829105/ux.design.part3_Dongyeon.docx)
   
   > fastCampus 자료구조, 알고리즘 온라인 강의 & 백준 알고리즘 문제 풀이
