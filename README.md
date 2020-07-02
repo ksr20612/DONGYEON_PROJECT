@@ -56,7 +56,7 @@
     -Ubuntu 18.04.1 LTS
     -GitHub WebService
     ```
- - 소스코드 : 
+ - 소개 및 소스코드 : 
     - [개발계획(Class diagram, Use-case diagram, Sequence diagram 등)](https://github.com/mshlee/UAI_Repository)
     - [UAIWeb](https://github.com/ksr20612/UAI)
 
@@ -75,6 +75,6 @@
     -AWS(Amazon Web Service)
     -Ubuntu 18.04.1 LTS
     ```
- - 소스코드 : 
+ - 소개 및 소스코드 : 
      - [Deepmunhakdo_seojaehyung](https://github.com/seojaehyung/CSAT_Text_Generation) (신경망모델)
      - [DeepmunhakdoWeb](https://github.com/ksr20612/DeepmunhakdoWeb) (웹)
