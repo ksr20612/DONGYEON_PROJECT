@@ -27,7 +27,7 @@
   >> - NUGU UX 분석 [[ux design] part3_Dongyeon.docx](https://github.com/ksr20612/DONGYEON_PROJECT/files/4829105/ux.design.part3_Dongyeon.docx)
   
   > fastCampus 자료구조, 알고리즘 온라인 강의 & 백준 알고리즘 문제 풀이
-  >> - [고민의 흔적_코드 정리](https://github.com/ksr20612/dataStructure)
+  >> - [스스로 작성한 코드 정리](https://github.com/ksr20612/dataStructure)
 
   > 기타
   >> - [JAVA로 고전게임을 만들어보자](https://github.com/ksr20612/JAVA_GAMES)
