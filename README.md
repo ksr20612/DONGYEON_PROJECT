@@ -4,11 +4,12 @@
 -------------------------------------
   - JAVA(중상, Spring/Springboot)
   - Python(중하)
+  - C, C++(중하) **
   - HTML, CSS, Javascript(중)
 
 ### Tools
 -------------------------------------
-  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB)
+  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB), QT Creator, Pycharm
 
 ### 교육내역
 -------------------------------------
