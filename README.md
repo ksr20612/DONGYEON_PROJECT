@@ -33,6 +33,12 @@
   > 기타
   >> - [JAVA로 고전게임을 만들어보자](https://github.com/ksr20612/JAVA_GAMES)
 
+### 작업해 온 것
+------------------------------------
+  > GO language 서버 개발 및 운영
+  >> 음성 데이터 수집 서버로 운영 중에 있습니다.
+
+
 ### 기타사항
 ------------------------------------
   - 정보처리기사(2019.11~)
@@ -79,3 +85,8 @@
  - 소개 및 소스코드 : 
      - [Deepmunhakdo_seojaehyung](https://github.com/seojaehyung/CSAT_Text_Generation) (신경망모델)
      - [DeepmunhakdoWeb](https://github.com/ksr20612/DeepmunhakdoWeb) (웹)
+     
+##### 3. 배불 앱
+ - 팀 구성 : 3인
+ - 역할 : 서버 개발
+ - 기간 : 2020.09 -
