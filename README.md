@@ -9,7 +9,7 @@
 
 ### Tools
 -------------------------------------
-  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB), QT Creator, Pycharm
+  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB), QT Creator, Pycharm, Intellij, Docker
 
 ### 교육내역
 -------------------------------------
@@ -43,7 +43,8 @@
 ------------------------------------
   - 정보처리기사(2019.11~)
   - TOEIC 990점(2020.05~)
-  - 사회조사분석사(2020.09~) 
+  - 사회조사분석사 2급(2020.09~) 
+  - SQLD (2020.12~)
 
 ### 프로젝트
 ------------------------------------
