@@ -5,7 +5,7 @@
   - JAVA(중상, Spring/Springboot)
   - Python(중하)
   - C, C++(중하) **
-  - HTML, CSS, Javascript(중)
+  - GO
 
 ### Tools
 -------------------------------------
