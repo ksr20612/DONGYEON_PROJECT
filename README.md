@@ -1,15 +1,15 @@
 # 유동연의 포트폴리오
 
-### Programming language skills
+### Programming language
 -------------------------------------
-  - JAVA(중상, Spring/Springboot)
-  - Python(중하)
-  - C, C++(중하) **
+  - JAVA
   - GO
-
+  - C++
+  - javascript
+  
 ### Tools
 -------------------------------------
-  - Spring, AWS(EC2-Ubuntu, MySQL), MySQL(Oracle DB), QT Creator, Pycharm, Intellij, Docker
+  - STS, AWS, MySQL(+MariaDB), MSSQL, QT Creator, Pycharm, Intellij, Docker, SPSS
 
 ### 교육내역
 -------------------------------------
@@ -37,6 +37,8 @@
 ------------------------------------
   > GO language 서버 개발 및 운영
   >> 음성 데이터 수집 서버로 운영 중에 있습니다.
+  > PHP 서버 개발 및 운영
+  >> amazon EC2, Mturk 연동하여 음성 데이터 수집 서버로 운영하였습니다.
 
 
 ### 기타사항
